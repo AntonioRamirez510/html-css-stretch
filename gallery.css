@@ -1,0 +1,28 @@
+section{
+    display:flex;
+    justify-content: space-evenly;
+}
+
+section >img{
+    height:200px;
+    width: 200px;
+    margin-top: 50px;
+}
+
+#heading{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    background-color: cadetblue;
+}
+
+h1{
+    color: aliceblue;
+    height: 80px;
+    font-size: 36;
+    align-content: center;
+}
+
+body{
+    background: chocolate;
+}
